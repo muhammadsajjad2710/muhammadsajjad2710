@@ -60,7 +60,7 @@
   </a>
   <a href="https://profile.indeed.com/?hl=en_PK&co=PK&from=gnav-homepage" target="blank">
     <!-- Use a more reliable, direct Indeed logo URL -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Indeed_logo.png" alt="Indeed" height="30" width="auto" style="max-width: 40px;" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThz8Qi-G6jIHt6TmCOguWjOKGYYQPB1afpSQ&s" alt="Indeed" height="30" width="auto" style="max-width: 40px;" />
   </a>
   <a href="https://fb.com/moiz.mansoor.754" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
