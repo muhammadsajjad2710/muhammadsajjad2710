@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello, I'm Abdul Moiz!</h1>
-<h3 align="center">Machine Learning Engineer | NLP & LLM Specialist</h3>
+<h1 align="center">👋 Hello, I'm Muhammad Sajjad!</h1>
+<h3 align="center">Python Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moiz-51135&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -13,19 +13,21 @@
 ---
 
 ### 🌟 About Me
-- 🔭 Currently working on **Advanced Large Language Models (LLMs)**
-- 🚀 Expertise in **fine-tuning LLMs** to enhance model capabilities for specific tasks
-- 🌱 Experienced with tools and techniques like **LangChain, LlamaIndex, and Retrieval-Augmented Generation (RAG)** for efficient LLM customization
-- 👯 Open to collaboration on **Machine Learning, Deep Learning, and NLP projects**
-- 💬 Ask me about **AI, NLP, and advanced ML frameworks**
-- 📫 Reach me at **moizmansoor68@gmail.com**
+- 🔭 Currently working on **building and integrating advanced web applications**
+- 🚀 Expertise in **backend development** with Python frameworks like **Django, Flask, and FastAPI**
+- 🌱 Experienced with tools and techniques for **web scraping, API development, and third-party application integration**
+- 👯 Open to collaboration on **Python development, web applications, and data-driven projects**
+- 💬 Ask me about **Python, web development frameworks, and database management**
+- 📫 Reach me at **muhammadsajjad2710@gmail.com**
 
 ---
 
-### 🛠️ Fine-Tuning & LLM Tools
-- **LangChain**: Creating advanced pipelines for custom language model applications
-- **LlamaIndex**: Structuring and indexing data for optimized language model responses
-- **Retrieval-Augmented Generation (RAG)**: Enhancing LLMs by integrating external data retrieval techniques for accurate responses
+### 🛠️ Essential Tools & Frameworks
+- **Django & Flask**: Building robust and scalable backend systems for web applications
+- **FastAPI**: Developing high-performance APIs for seamless integration and communication between applications
+- **Selenium**: Automating web tasks and data extraction through efficient web scraping techniques
+- **Database Management**: Expertise in MySQL and SQLite for data storage, retrieval, and management
+- **API Development:**: Designing and integrating RESTful APIs for third-party application communication and data sharing
 
 ---
 
