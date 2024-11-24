@@ -31,6 +31,7 @@
 
 ---
 
+
 ### 🛠️ Tech Stack & Tools
 <p align="center">
   <!-- Python -->
@@ -72,6 +73,8 @@
   <!-- OpenCV -->
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
 </p>
+
+  
 
 
 ---
