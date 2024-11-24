@@ -59,10 +59,12 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://profile.indeed.com/?hl=en_PK&co=PK&from=gnav-homepage" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Indeed_logo.png" alt="Indeed" height="30" width="150" />
+    <!-- Use a more reliable, direct Indeed logo URL -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Indeed_logo.png" alt="Indeed" height="30" width="auto" style="max-width: 40px;" />
   </a>
   <a href="https://fb.com/moiz.mansoor.754" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
+
 
