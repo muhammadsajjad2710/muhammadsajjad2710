@@ -47,8 +47,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moiz-51135&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moiz-51135&" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadsajjad2710&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsajjad2710&" alt="GitHub Streak" />
 </p>
 
 ---
