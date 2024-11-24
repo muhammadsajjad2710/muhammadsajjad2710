@@ -55,7 +55,14 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-sajjad-a18550218?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwsLZv2SXTBW9yvEAwj8P6g%3D%3D" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://profile.indeed.com/?hl=en_PK&co=PK&from=gnav-homepage" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Indeed_logo.png" alt="Indeed" height="30" width="40" /></a>
-  <a href="https://fb.com/moiz.mansoor.754" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-sajjad-a18550218?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwsLZv2SXTBW9yvEAwj8P6g%3D%3D" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://profile.indeed.com/?hl=en_PK&co=PK&from=gnav-homepage" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Indeed_logo.png" alt="Indeed" height="30" width="150" />
+  </a>
+  <a href="https://fb.com/moiz.mansoor.754" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
 </p>
+
