@@ -2,12 +2,12 @@
 <h3 align="center">Python Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moiz-51135&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moiz-51135" alt="Trophy" /></a>
+  <img src="https://komarev.com/ghpvc/?username=muhammadsajjad2710&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsajjad2710" alt="Trophy" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moiz-51135&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsajjad2710&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 ---
