@@ -98,7 +98,7 @@
   />
   <img
     align="center"
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=muhammadsajjad2710"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=muhammadsajjad2710&amp;locale=en&amp;date_format=M%20j"
     alt="GitHub Streak"
   />
 </p>
