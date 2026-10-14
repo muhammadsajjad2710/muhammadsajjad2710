@@ -93,7 +93,7 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=muhammadsajjad2710&amp;show_icons=true&amp;locale=en&amp;cache_seconds=14400"
+    src="https://github-readme-stats.vercel.app/api?username=muhammadsajjad2710&amp;show_icons=true&amp;locale=en&amp;include_all_commits=true&amp;theme=default"
     alt="GitHub Stats"
   />
   <img
