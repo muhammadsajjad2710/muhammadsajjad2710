@@ -16,7 +16,7 @@
 <!-- Profile views -->
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=muhammadsajjad2710&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat&amp;v=2"
+    src="https://komarev.com/ghpvc/?username=muhammadsajjad2710&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"
     alt="Profile views"
     height="20"
   />
@@ -35,7 +35,7 @@
 <!-- Top languages -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsajjad2710&amp;show_icons=true&amp;locale=en&amp;layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsajjad2710&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;cache_seconds=14400"
     alt="Top Languages"
   />
 </p>
@@ -93,12 +93,12 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=muhammadsajjad2710&amp;show_icons=true&amp;locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=muhammadsajjad2710&amp;show_icons=true&amp;locale=en&amp;cache_seconds=14400"
     alt="GitHub Stats"
   />
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsajjad2710"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=muhammadsajjad2710"
     alt="GitHub Streak"
   />
 </p>
