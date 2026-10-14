@@ -16,8 +16,9 @@
 <!-- Profile views -->
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=muhammadsajjad2710&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"
+    src="https://komarev.com/ghpvc/?username=muhammadsajjad2710&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat&amp;v=2"
     alt="Profile views"
+    height="20"
   />
 </p>
 
