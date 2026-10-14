@@ -1,13 +1,42 @@
 <h1 align="center">👋 Hello, I'm Muhammad Sajjad!</h1>
 <h3 align="center">AI Engineer</h3>
 
+<!-- Profile photo -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=muhammadsajjad2710&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsajjad2710" alt="Trophy" /></a>
+  <a href="https://github.com/muhammadsajjad2710">
+    <img
+      src="https://github.com/muhammadsajjad2710.png?size=160"
+      alt="Muhammad Sajjad's GitHub profile photo"
+      width="120"
+      height="120"
+    />
+  </a>
 </p>
 
+<!-- Profile views -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsajjad2710&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img
+    src="https://komarev.com/ghpvc/?username=muhammadsajjad2710&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"
+    alt="Profile views"
+  />
+</p>
+
+<!-- GitHub trophies: working community mirror -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-repo.vercel.app/?username=muhammadsajjad2710"
+      alt="Muhammad Sajjad's GitHub trophies"
+    />
+  </a>
+</p>
+
+<!-- Top languages -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsajjad2710&amp;show_icons=true&amp;locale=en&amp;layout=compact"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -58,10 +87,19 @@
 
 ---
 
-### 📈 GitHub Stats
+<h3>📈 GitHub Stats</h3>
+
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadsajjad2710&show_icons=true&locale=en" alt="GitHub Stats" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsajjad2710&" alt="GitHub Streak" />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=muhammadsajjad2710&amp;show_icons=true&amp;locale=en"
+    alt="GitHub Stats"
+  />
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsajjad2710"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
