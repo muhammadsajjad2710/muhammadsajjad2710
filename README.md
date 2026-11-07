@@ -184,11 +184,6 @@ These are the **31** public repositories on the account right now. Each name is 
     src="https://github-readme-stats-one-bice.vercel.app/api?username=muhammadsajjad2710&amp;show_icons=true&amp;locale=en&amp;include_all_commits=true&amp;theme=default"
     alt="GitHub Stats"
   />
-  <img
-    align="center"
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=muhammadsajjad2710&amp;locale=en"
-    alt="GitHub Streak"
-  />
 </p>
 
 ---
